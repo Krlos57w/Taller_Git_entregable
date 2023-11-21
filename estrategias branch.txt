@@ -1,3 +1,19 @@
 Estrategias branch
 
-1- Rama principal. 
+1- Rama principal.(main)
+   cambio 1 
+
+2- Rama  Hotfix
+
+
+3- Rama Release
+
+
+4- Rama Develop
+
+
+
+5- Rama Feature
+
+
+6- Rama Feature
