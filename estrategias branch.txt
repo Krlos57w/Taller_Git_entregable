@@ -10,10 +10,10 @@ Estrategias branch
 
 
 4- Rama Develop
-
+   cambio 1 de desarrollo			
 
 
 5- Rama Feature
-
-
+	cambio 1
+	
 6- Rama Feature
