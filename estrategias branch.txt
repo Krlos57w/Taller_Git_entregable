@@ -7,11 +7,10 @@ Estrategias branch
 	v1, cambio 1
 
 3- Rama  hotfix2
-	v1, cambio 1
+	
 
 4- Rama  hotfix3
-	v1, cambio 1
-
+	
 
 5- Rama Release
 
