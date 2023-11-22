@@ -3,17 +3,26 @@ Estrategias branch
 1- Rama principal.(main)
    cambio 1 
 
-2- Rama  Hotfix
+2- Rama  hotfix1
+	v1, cambio 1
+
+3- Rama  hotfix2
+	v1, cambio 1
+
+4- Rama  hotfix3
+	v1, cambio 1
 
 
-3- Rama Release
+5- Rama Release
 
 
-4- Rama Develop
+6- Rama Develop
+
+	v1, cambio 1
+
+7- Rama Feature1
+	v1 , cambio 1
 
 
-
-5- Rama Feature
-
-
-6- Rama Feature
+8- Rama Feature2
+	v1, cambio 1
